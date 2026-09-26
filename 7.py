@@ -27,7 +27,6 @@ else:
     arr = [int(number) for number in str(number)]
 
     arr.reverse()
-
     # ty = False
     # for i in arr:
     #     if ty == True:
