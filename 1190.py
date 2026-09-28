@@ -13,8 +13,3 @@ def reverse_parentheses(s):
     return stack[0]
 s = "(u(love)i)"
 print(reverse_parentheses(s))   # iloveu
-
-
-io = "tgeh,an"
-for i in io:
-    print(i)
